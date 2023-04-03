@@ -7,6 +7,8 @@ android {
     namespace 'com.example.aula07'
     compileSdk 33
 
+/*faze binding automatico*/
+    
     viewBinding{
         enabled true
     }
